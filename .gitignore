@@ -1,0 +1,12 @@
+# Ignorar archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar entorno virtual
+venv/
+
+# Ignorar credenciales sensibles
+token.json
+credentials.json
